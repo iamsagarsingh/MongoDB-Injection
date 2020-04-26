@@ -4,4 +4,4 @@
 # Usage:
 * python3 juice.py -url "http://example.com/"
 
-ONLY FOR CTF PURPOSE.
+#### ONLY FOR CTF PURPOSE.
