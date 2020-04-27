@@ -4,6 +4,8 @@
 # Usage:
 ```
  python3 juice.py -url "http://example.com/"
+ 
  ```
+ ![](screenshots/script.png)
 
 #### ONLY FOR CTF PURPOSE.
